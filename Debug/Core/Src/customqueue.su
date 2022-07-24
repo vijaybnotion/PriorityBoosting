@@ -1,0 +1,3 @@
+customqueue.c:13:6:initqueue	16	static
+customqueue.c:17:15:enqueue	16	static
+customqueue.c:36:15:dequeue	16	static
