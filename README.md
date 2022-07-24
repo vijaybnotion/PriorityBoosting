@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PriorityInversion_FreeRTOS
 
 
@@ -17,3 +18,7 @@ Sequence is as follows:
 ----
 
 ![Priority Inversion](Images/PriorityInversion.png "Priority Inversion")
+=======
+# PriorityBoosting
+Priority Boosting algorithm to solve priority inversion problem
+>>>>>>> 4040d45b6ccad0e3c8f2407d2b90cc8f25f71217
