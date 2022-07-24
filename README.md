@@ -15,5 +15,5 @@ Sequence is as follows:
 
 ----
 
-![Priority Inversion](Images/PriorityInversion.png "Priority Inversion")
+![Priority Inversion](Images/PriorityBoosting.png "Priority Boosting")
 =======
